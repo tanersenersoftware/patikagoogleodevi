@@ -1,0 +1,45 @@
+#kisim1{
+	border: ;
+	border-width: 100%;
+	height: 2cm;
+	text-align: center;
+	background-color: rgba(153, 163, 28, 0.25);
+
+}
+
+#kisim2{
+	border: 1px solid;
+	width: 13cm;
+	height: 2.5cm;
+	text-align: center;
+	align-items: center;
+	background-color: rgba(24, 186, 176, 0.68);
+
+	justify-content: center;
+
+
+}
+#kisim3{
+	border: 1px solid;
+	height: 2.5cm;
+	width: 6cm;
+	position: relative;
+	left: 492px;
+	bottom: 96.4px;
+	text-align: center;
+	background-color: rgba(24, 224, 164, 0.68);
+}
+#kisim4{
+	border: 1px solid;
+	height: 2.5cm;
+	position: relative;
+	left: 721px;
+	bottom: 192px;
+	text-align: center;
+	width: 700px;
+background-color: rgba(24, 255, 164, 0.68);
+}
+a{
+	color: blue;
+}
+
